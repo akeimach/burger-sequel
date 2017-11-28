@@ -1,4 +1,4 @@
-{
+module.exports = {
     "development": {
         "username": "root",
         "password": null,
@@ -9,12 +9,12 @@
     "test": {
         "username": "root",
         "password": null,
-        "database": "database_test",
+        "database": "burgers_sequel_db",
         "host": "127.0.0.1",
         "dialect": "mysql"
     },
     "production": {
-        "use_env_variable": "DATABASE_URL",
+        "use_env_variable": "JAWSDB_URL",
         "dialect": "mysql"
     }
 }
