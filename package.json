@@ -1,21 +1,21 @@
 {
-  "name": "burger",
+  "name": "burger-sequel",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akeimach/burger.git"
+    "url": "git+https://github.com/akeimach/burger-sequel.git"
   },
   "author": "Alyssa Keimach",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akeimach/burger/issues"
+    "url": "https://github.com/akeimach/burger-sequel/issues"
   },
-  "homepage": "https://github.com/akeimach/burger#readme",
+  "homepage": "https://github.com/akeimach/burger-sequel#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
